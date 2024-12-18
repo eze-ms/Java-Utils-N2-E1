@@ -42,6 +42,7 @@ Modular Design:
    ```bash
     java -cp out Main
 
+---
 
 ## 🛠️ Installation
 1. Clone the repository:
