@@ -40,7 +40,7 @@ Modular Design:
 
 2. Run the program, providing the path to a directory as an argument:
    ```bash
-java -cp out Main
+    java -cp out Main
 
 
 ## 🛠️ Installation
